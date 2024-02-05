@@ -5,8 +5,8 @@
 	display: inline-grid;
 	width: 100%;
 	max-width: func.em(360, var.$font-size-primary);
-	margin: func.em(40, var.$font-size-primary) 0
-		func.em(20, var.$font-size-primary);
+	margin: func.em(30, var.$font-size-primary) 0
+		func.em(18, var.$font-size-primary);
 	border-radius: 8px;
 	overflow: hidden;
 }
