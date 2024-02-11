@@ -56,4 +56,8 @@
 	.card {
 		display: inline-grid;
 	}
+
+	.card__btn {
+		margin-top: func.em(50, var.$font-size-primary);
+	}
 }
