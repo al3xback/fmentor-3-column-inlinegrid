@@ -1,8 +1,8 @@
 {
 	"name": "fmentor-3-column-inlinegrid",
+	"private": true,
 	"version": "1.0.0",
-	"description": "3-column preview card component using display inline-grid",
-	"main": "index.js",
+	"type": "module",
 	"scripts": {
 		"sass-dev": "sass --watch scss/main.scss css/main.css",
 		"sass-prod": "sass scss/main.scss css/main.css --style=compressed --no-source-map",
